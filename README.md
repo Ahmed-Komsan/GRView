@@ -18,13 +18,6 @@ pod 'GRView', :git => 'https://github.com/Ahmed-Komsan/GRView', :tag => '1.0.0'
 
 Download .zip file and extract it. There you will find the GradientView folder, just copy and it to your respective project.
 
-# To-do
-
- - Add like-instagram animation 
- - Allow more than two colors to create gradients.
- - Add more UIKit elements with gradient and properties.
- - Add blur effect.
-
 # Usage
 
 # Storyboard/Xib
@@ -43,6 +36,13 @@ grView.endColor = UIColor(red: 0.1, green: 1.0, blue: 0.7, alpha: 1.0)
 view.insertSubview(grView, at: 0)
         
 ```     
+# To-do
+
+ - Add like-instagram animation 
+ - Allow more than two colors to create gradients.
+ - Add more UIKit elements with gradient and properties.
+ - Add blur effect.
+
 
 # Author
 
