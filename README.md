@@ -23,13 +23,16 @@ Download .zip file and extract it. There you will find the GradientView folder, 
  - Add like-instagram animation 
  - Allow more than two colors to create gradients.
  - Add more UIKit elements with gradient and properties.
+ - Add blur effect.
 
 # Usage
 
 # Storyboard/Xib
 
-while assigning GRView to UIView / GRButton to UIButton on StoryBoard/Xib don't forget to select module
+while assigning GRView to UIView / other UIKit element on StoryBoard/Xib don't forget to select module
 (if downloaded by pod)
+
+<img src="Assets/usage_sample1.png"> <img src="Assets/usage_sample2.png">
 
 # Programmatically
 
