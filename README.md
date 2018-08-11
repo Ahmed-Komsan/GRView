@@ -2,6 +2,8 @@
 UIView and other UIKit elements with a gradient and other customizable properties (gradient,shadow color,corner raduis...etc.)
 GRView exposes many properties you can modify to customize your view or button to add gradient layer ,shadow color ,corner raduis , ... etc. GRView Classes is a @IBDesignable class so that it's rendered in your storyboard, and all its properties are @IBInspectable so that you can customize your gradient inside the storyboard in the attributes inspector.
 
+<img src="Assets/splash_Screen.png"> <img src="Assets/grview_sample1.png">
+
 # Requirements
 
 GRView is written in Swift 4. iOS 8.0+ Required
