@@ -10,6 +10,7 @@
 		335C80F8211C415600C2A482 /* GRView.h in Headers */ = {isa = PBXBuildFile; fileRef = 335C80F6211C415600C2A482 /* GRView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		335C8101211C42E500C2A482 /* GRButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335C80FF211C42E500C2A482 /* GRButton.swift */; };
 		335C8102211C42E500C2A482 /* GRView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335C8100211C42E500C2A482 /* GRView.swift */; };
+		33C7407E2123401100246A86 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 33C7407D2123401100246A86 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,6 +19,7 @@
 		335C80F7211C415600C2A482 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		335C80FF211C42E500C2A482 /* GRButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GRButton.swift; sourceTree = "<group>"; };
 		335C8100211C42E500C2A482 /* GRView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GRView.swift; sourceTree = "<group>"; };
+		33C7407D2123401100246A86 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +36,7 @@
 		335C80E9211C415600C2A482 = {
 			isa = PBXGroup;
 			children = (
+				33C7407D2123401100246A86 /* README.md */,
 				335C80FE211C42E500C2A482 /* GradientView */,
 				335C80F5211C415600C2A482 /* GRView */,
 				335C80F4211C415600C2A482 /* Products */,
@@ -135,6 +138,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				33C7407E2123401100246A86 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
