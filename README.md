@@ -12,7 +12,7 @@ GRView is written in Swift 4. iOS 8.0+ Required
 
 CocoaPods is the preferred way to install this library. Add this command to your Podfile:
 
-pod 'GRView', :git => 'https://github.com/Ahmed-Komsan/GRView', :tag => '1.0.0'
+pod 'GRView'
 
 # Direct Installation
 
